@@ -8,7 +8,7 @@ By Alan Ayala, Xavier Claeys and Laura Grigori.
 Corresponds to Algorithm 2 in the paper: CUR via Geometric sampling.
 
 # GC_Sampling.m
-Selecting columns using Gravity centers.
+Sampling columns using Gravity centers approach.
 
 # NN_Sampling.m
-Selecting columns using Nearest-Neighbors approach.
+Sampling columns using Nearest-Neighbors approach.
